@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-gdxts",
+  "version": "1.0.2",
+  "keywords": [
+    "create-react-app",
+    "template",
+    "gdxts",
+    "typescript"
+  ],
+  "description": "The base gdxts template for Create React App.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

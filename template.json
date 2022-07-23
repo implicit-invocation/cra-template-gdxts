@@ -1,0 +1,11 @@
+{
+  "package": {
+    "dependencies": {
+      "typescript": "^4.4.2",
+      "gdxts": "*"
+    },
+    "eslintConfig": {
+      "extends": ["react-app", "react-app/jest"]
+    }
+  }
+}
